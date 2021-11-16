@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MergeSortClass
+comment1.params=array
+comment1.target=int[]\ mergeSort(int[])
+comment2.params=left\ right
+comment2.target=int[]\ merge(int[],\ int[])
+numComments=3
